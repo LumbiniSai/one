@@ -7,3 +7,4 @@ public class Test{
 	}
 }
 
+commiting new changes with text
