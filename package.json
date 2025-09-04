@@ -1,0 +1,12 @@
+{
+  "name": "movie-ticket-app",
+  "version": "1.0.0",
+  "description": "Simple Movie Ticket Booking Demo like BookMyShow",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
